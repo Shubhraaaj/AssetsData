@@ -1,0 +1,13 @@
+Pikachu,Electric
+Onyx,Rock
+Squirtle,Water
+Charmandar,Fire
+Charizard,Fire
+Watertortle,Water
+Meowth,Ground
+Magikarp,Water
+Bulbasaur,Grass
+Ivasaur,Grass
+Catapie,Insect
+Pigeotto,Bird
+Piggy,Bird
