@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">Assets Data</string>
+    <string name="pokemon_name">Pokemon Name</string>
+    <string name="pokemon_type">Pokemon Type</string>
+    <string name="add_pokemon">Add pokemon</string>
+    <string name="empty_view_title_text">There are no pokemons in your Pokedex</string>
+    <string name="empty_view_subtitle_text">Add some Pokemons</string>
+    <string name="unknown_breed">Unknown</string>
+    <string name="delete_all">Delete all</string>
+    <string name="add_a_pokemon_title">Add a Pokemon</string>
+    <string name="edit_pokemon_title">Edit Pokemon Data</string>
+    <string name="delete">Delete</string>
+    <string name="update_pokemon">Update Pokemon</string>
+    <string name="unsaved_changes_dialog_msg">Do you want to cancel the edit?</string>
+    <string name="discard">Yes, Cancel</string>
+    <string name="keep_editing">No, Keep editing</string>
+    <string name="delete_dialog_msg">Do you want to delete  the pokemon?</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_pet_failed">Deletion failed!</string>
+    <string name="editor_delete_pet_successful">Pokemon deleted</string>
+    <string name="editor_insert_pet_failed">Failed to add Pokemon</string>
+    <string name="editor_insert_pet_successful">Added Pokemon successfully</string>
+    <string name="editor_update_pet_failed">Failed to update Pokemon</string>
+    <string name="editor_update_pet_successful">Update pokemon successfully</string>
 </resources>
